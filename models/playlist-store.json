@@ -1,0 +1,21 @@
+{
+  "playlistCollection": [
+    {
+      "id": "4a90951b-555e-4773-b3d7-55b5f35604f7",
+      "title": "Homer's First List",
+      "songs": []
+    },
+    {
+      "id": "99055177-341b-4931-af33-dcf5d77e6ad7",
+      "userid": "7d98d42a-4a7c-4343-8aff-e151e52df3f8",
+      "title": "Marge Playlist 1",
+      "songs": []
+    },
+    {
+      "id": "8febb12d-c303-4a68-b6df-b2c750631aea",
+      "userid": "5cebbb8d-85e2-43aa-a67e-d3a605a1866e",
+      "title": "Homer's First List",
+      "songs": []
+    }
+  ]
+}
